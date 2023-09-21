@@ -22,7 +22,7 @@ function NavBar({search, setSearch, setCurrentEmail}) {
             {/* SITE LOGO */}
             <div className="logo">
                 <Link className="" to="/">
-                    LADAK
+                    LAKAD
                 </Link>
             </div>
             {/* SEARCH */}
