@@ -38,6 +38,10 @@
       "react-app/jest"
     ]
   },
+  "overrides": {
+    "react": "^18.0.0",
+    "react-gesture-responder": "^2.1.0"
+  },
   "browserslist": {
     "production": [
       ">0.2%",
