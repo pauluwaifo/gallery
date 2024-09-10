@@ -9,7 +9,7 @@ const firebaseConfig = {
   storageBucket: "fir-course-7999d.appspot.com",
   messagingSenderId: "134817105319",
   appId: "",
-  measurementId: "G-SJ5QT6WLYR"
+  measurementId: ""
 };
 
 
