@@ -3,12 +3,12 @@ import { getAuth, GoogleAuthProvider } from "firebase/auth";
 
 // FIREBASE AUTHENTICATION CONFIGURATION
 const firebaseConfig = {
-  apiKey: "AIzaSyBwQg72Nv5JO1MLcgVQXr275ipXc3odAXc",
+  apiKey: "",
   authDomain: "fir-course-7999d.firebaseapp.com",
   projectId: "fir-course-7999d",
   storageBucket: "fir-course-7999d.appspot.com",
   messagingSenderId: "134817105319",
-  appId: "1:134817105319:web:58d9b21eafab51edaf2282",
+  appId: "",
   measurementId: "G-SJ5QT6WLYR"
 };
 
